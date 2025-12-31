@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Aspiring Data Scientist & Machine Learning <br>Python-focused developer with a strong analytical mindset<br>Practical, project-based approach to learning and development<br>Strong problem-solving and logical thinking skills<br>Continuously improving technical expertise and industry knowledge
 
 
